@@ -60,7 +60,7 @@ int main()
     else
         printf("\n element is not in array.");
 
-        printf("\n\n")
+        printf("\n\n");
 
     return 0;
 }
